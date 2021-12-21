@@ -26,7 +26,15 @@ appendix of our paper for Journal of the Robotics Society of Japan
 
 ## Figure 5
 
+(a)
 ![](./fig_5_a.png)
+
+
+(b)
 ![](./fig_5_b.png)
+
+(c)
 ![](./fig_5_c.png)
+
+(d)
 ![](./fig_5_d.png)
