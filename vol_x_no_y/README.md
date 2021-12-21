@@ -76,3 +76,7 @@ appendix of our paper for Journal of the Robotics Society of Japan
 ![](./fig_12.png)
 ![](./fig_13.png)
 
+### another version
+
+![](./fig_12_13_another.png)
+
