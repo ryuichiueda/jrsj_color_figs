@@ -2,7 +2,7 @@
 appendix of our paper for Journal of the Robotics Society of Japan
 
 
-## Fig 1
+## Figure 1
 
 (a)
 
@@ -11,3 +11,7 @@ appendix of our paper for Journal of the Robotics Society of Japan
 (b)
 
 ![](./fig_1_b.png)
+
+## Figure 2
+
+![](./fig_2.png)
