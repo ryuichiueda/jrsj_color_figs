@@ -1,6 +1,6 @@
-# Color Image of [[Mikami et al. 2022]](https://www.jstage.jst.go.jp/article/jrsj/40/2/40_40_143/_article/-char/ja)
+# Color Images of [[Mikami et al. 2022]](https://www.jstage.jst.go.jp/article/jrsj/40/2/40_40_143/_article/-char/ja)
 
-appendix of our paper for Journal of the Robotics Society of Japan: https://www.jstage.jst.go.jp/article/jrsj/40/2/40_40_143/_article/-char/ja
+appendix of our paper for Journal of the Robotics Society of Japan
 
 ## Figure 1
 
